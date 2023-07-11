@@ -1,5 +1,8 @@
 # IOT_Patient_Health
 IOT BASED PATIENT HEALTH MONITORING SYSTEM USING RASPBERRY PI
+->  Ecs report file consists of the Diagrams and output result with Html code to deploy in the clod to stream and surf
+->  Developed using Raspberry Pi, DHT22 temperature monitoring sensor ,MAX30100 heartrate and blood oxygen 
+monitoring sensor and an interface using HTML/CSS.
 
     ->  The design and implementation of a health monitoring system using IoT. 
     ->  This IoT-based device allows users to determine their health parameters, which could help regulate their health over time.
